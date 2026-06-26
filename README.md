@@ -1,10 +1,26 @@
+## qBittorent
+
+Install [qBittorrent](https://www.qbittorrent.org/) on macos:
+
+```bash
+brew install tbo47/tap/qbittorrent
+```
+
+Then open it:
+
+```bash
+open -a qBittorrent
+```
+
+## aMule
+
 Install [amule](https://amule-org.github.io/) on macos:
 
 ```bash
 brew install tbo47/tap/amule
 ```
 
-Then you can open it with:
+Then open it:
 
 ```bash
 open -a aMule
